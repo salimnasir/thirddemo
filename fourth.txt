@@ -1,3 +1,5 @@
 hello world
 
 updated for fast forwerd changing
+
+updated for merge commit
